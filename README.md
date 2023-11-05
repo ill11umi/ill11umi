@@ -13,3 +13,8 @@ I'm actively seeking end of study internship opportunities to apply and expand m
 - 🌍 I'm fascinated by the power of location-based data and its applications in urban planning, environmental monitoring, and more.
 
 
+## Get in Touch
+
+I'm always open to collaboration and learning opportunities. If you're interested in working together or have any questions, feel free to reach out to me. Let's connect and create something amazing! 🚀
+
+
