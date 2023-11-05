@@ -1,7 +1,7 @@
 ## Hello, I'm Mohamed RMILI 👋
 
 <p align="center" >
-    <img width="280" src="https://github.com/ill11umi/ill11umi/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/> <br>
+    <img width="500" src="https://github.com/ill11umi/ill11umi/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/> <br>
     <br>
 I'm a final year GIS/IT student with a passion for **geospatial data analysis**, **business intelligence**, **web development**, **data science**, and **machine learning**. 
 I'm actively seeking end of study internship opportunities to apply and expand my knowledge and skills in these areas. Here, you'll find a collection of some of my projects and contributions related to GIS and IT. 🌐💼
